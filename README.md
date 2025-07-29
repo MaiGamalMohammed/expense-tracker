@@ -50,7 +50,7 @@ json
   "description": "Coffee",
   "amount": 25,
   "category": "Food",
-  "createdAt": "2025-07-29T18:45:00.000Z"
+  "date": "2025-07-29T18:45:00.000Z"
 }
 ```
 
