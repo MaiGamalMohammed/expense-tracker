@@ -1,0 +1,26 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "A simple CLI allow you to track you to manage your finances.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaiGamalMohammed/expense-tracker.git"
+  },
+   "bin": {
+    "expense-tracker": "./index.js"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaiGamalMohammed/expense-tracker/issues"
+  },
+  "homepage": "https://github.com/MaiGamalMohammed/expense-tracker#readme",
+  "dependencies": {
+    "commander": "^14.0.0"
+  }
+}
